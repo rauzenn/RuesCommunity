@@ -12,6 +12,8 @@ Topluluk için ürettiğim içerikler ve araçlar. Her içerik kendi klasöründ
 |---|---|---|
 | 01 | [Yapay Zekâ Orkestrası](icerikler/01-yapay-zeka-orkestrasi) | Yapay zekâ ajanlarıyla şef, uzman ajanlar ve bağımsız denetçiden oluşan bir ekip kurmak ([sayfa](icerikler/01-yapay-zeka-orkestrasi/index.html)) |
 
+Orkestra bu depoda da kurulu: ajanlar [`.claude/agents/`](.claude/agents), şefin kuralı [`CLAUDE.md`](CLAUDE.md), brif şablonu [`.claude/brif-sablonu.md`](.claude/brif-sablonu.md). Claude Code bu klasörde açılınca kadro hazır gelir.
+
 ## Araçlar
 
 | Araç | Konu |
