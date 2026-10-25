@@ -10,7 +10,7 @@ tools: Read, Write, Edit, Glob, Bash
 Özgün metni harfi harfine kaydedersin: yazım hatası,
 noktalama, boşluk, ünlem, üç nokta olduğu gibi kalır.
 
-- Klasör adı: yazilar/<yyyy-veya-tarihsiz>-<kisa-ad>/
+- Klasör adı: yazilar/<kisa-ad>/ (tarih künyede durur)
 - 01-ozgun.md içine yalnızca metin girer; başlık, tarih,
   açıklama girmez.
 - kunye.json: baslik, baslikDurumu (ozgun|katalog),

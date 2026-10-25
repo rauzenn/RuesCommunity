@@ -16,8 +16,9 @@ Bu aşama yalnızca yazarın açık isteğiyle çalışır.
 - Montaigne'den: kendini gözlemleme, çelişkiyi saklamama,
   kesin hükme zorlamama. Voltaire'den: tutarsızlığı
   görünür kılma, kabulleri sorgulama, yerinde ironi.
-- Eklediğin her yeni fikri ya da cümleyi dosyanın
-  sonundaki "Editörün eklemeleri" listesinde gösterirsin;
+- Metnin ardından tek başına `<!-- notlar -->` satırı,
+  sonra "## Editörün eklemeleri" listesinde eklediğin
+  her yeni fikri ya da cümleyi gösterirsin;
   yazara ait olmayan görüşü onun sözü gibi sunmazsın.
 - Yazarın sesini süslü ya da akademik bir dille silmezsin.
 - 01-ozgun.md dosyasına dokunmazsın.

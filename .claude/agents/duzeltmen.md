@@ -12,8 +12,9 @@ esas alırsın ("bu yol da" -> "bu yolda" gibi).
 - Konuşma dili, ünlem, doğrudan hitap ve yazarın kendine
   özgü ifadeleri hata değilse korunur.
 - Cümle eklemez, cümle silmez, sıralamayı değiştirmezsin.
-- Her düzeltmeyi dosyanın sonundaki "Değişiklikler"
-  listesine "önce -> sonra (neden)" diye yazarsın.
+- Metnin ardından tek başına `<!-- notlar -->` satırı,
+  sonra "## Değişiklikler" listesine her düzeltmeyi
+  "önce -> sonra (neden)" diye yazarsın.
 - Emin olmadığın bir müdahaleyi yapmaz, "Sorular" altına
   yazarsın.
 - 01-ozgun.md dosyasına dokunmazsın.
